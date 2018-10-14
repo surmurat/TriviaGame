@@ -1,0 +1,43 @@
+body{
+    background-image:url("../images/background.jpg");
+    background-position: center;
+    background-repeat:repeat-y;
+    background-size: cover;
+}
+
+audio {
+    display: none;
+}
+
+.question{
+    background-color: #4286f4;
+    border: 4px solid white;
+}
+
+#answers{
+padding-left: 0;
+}
+
+#answers > li{
+    border: 4px solid white;
+    background-color: #4286f4;
+    margin: 12px;
+    list-style: upper-alpha;
+    cursor: pointer;
+}
+
+#answers > li:hover{
+    background-color: #f4c242;
+}
+
+.chosenAnswer {
+    background-color: #f4c242!important;
+}
+
+.correctAnswer {
+    background-color: #50f442!important;
+}
+
+.wrongAnswer {
+    background-color: #ff4828!important;
+}
