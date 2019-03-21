@@ -4,3 +4,11 @@ Trivia Game is small version of who wants to be millionaire.Users will be given 
 
 Technologies:
 Vanilla JavaScript, CSS and Bootstrap.
+
+Demo: 
+https://surmurat.github.io/TriviaGame/
+
+![](assets/images/Screenshot1.png)
+![](assets/images/Screenshot2.png)
+![](assets/images/Screenshot3.png)
+![](assets/images/Screenshot4.png)
